@@ -8,7 +8,8 @@ This project adheres to [Semantic Versioning](http://semver.org/) starting from 
 ---
 
 ## Table of contents
-
+#### 5.x Releases
+- `5.0.0` Releases - [5.0.0](#5.0.0)
 #### 4.x Releases
 - `4.2.0` Releases - [4.2.0](#420) | [4.2.1](#421) | [4.2.2](#422) | [4.2.3](#423) | [4.2.4](#424)
 - `4.1.0` Releases - [4.1.0](#410) | [4.1.3](#413)
