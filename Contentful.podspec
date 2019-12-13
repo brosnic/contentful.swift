@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.name             = "Contentful"
   spec.version          = ENV['CONTENTFUL_SDK_VERSION']
   spec.summary          = "Swift SDK for Contentful's Content Delivery API."
-  spec.homepage         = "https://github.com/contentful/contentful.swift/"
+  spec.homepage         = "https://github.com/brosnic/contentful.swift.git/"
   spec.social_media_url = 'https://twitter.com/contentful'
 
   spec.license = {
@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   }
 
   spec.authors      = { "JP Wright" => "jp@contentful.com", "Boris Bügling" => "boris@buegling.com" }
-  spec.source       = { :git => "https://github.com/contentful/contentful.swift.git",
+  spec.source       = { :git => "https://github.com/brosnic/contentful.swift.git",
                         :tag => spec.version.to_s }
   spec.requires_arc = true
 
